@@ -147,7 +147,7 @@ footer = """
         .footer {
             position: fixed;
             bottom: 10px;
-            right: 20px;
+            left: 20px;
             font-size: 14px;
             color: gray;
         }
