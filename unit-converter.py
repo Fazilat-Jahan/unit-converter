@@ -153,7 +153,7 @@ footer = """
         }
     </style>
     <div class="footer">
-        Built by <a href="https://www.linkedin.com/in/fazilat-jahan-web-developer/"> <b>Fazilat Jahna</b> </a>
+        Built by <a href="https://www.linkedin.com/in/fazilat-jahan-web-developer/"> <b>Fazilat Jahan</b> </a>
     </div>
 """
 st.markdown(footer, unsafe_allow_html=True)
